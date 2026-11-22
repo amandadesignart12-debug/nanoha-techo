@@ -11178,7 +11178,13 @@
         "startedAt": "2026-11-21T20:55:33.756Z",
         "total": 97
       },
-      "running": null
+      "running": {
+        "checked": 11,
+        "current": "2027年2〜3月のコンクールを確認済み（変更なし）",
+        "startedAt": "2026-11-22T20:55:33.847Z",
+        "total": 97,
+        "updatedAt": "2026-11-22T20:58:54.449Z"
+      }
     }
   },
   "ok": true
