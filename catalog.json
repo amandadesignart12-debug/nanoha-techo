@@ -2477,7 +2477,7 @@
           },
           {
             "b": false,
-            "t": "（部門詳細・締切は未公表）。参考：同シリーズ下関大会（2027年2月28日）は開催約1か月前に締切"
+            "t": "（部門詳細・締切は未公表。エントリー開始は2026年12月25日と公式サイトで発表済み）。参考：同シリーズ下関大会（2027年2月28日）は開催約1か月前に締切"
           }
         ],
         "entryEnd": null,
@@ -2488,13 +2488,18 @@
           "unconfirmed"
         ],
         "guideLink": {
-          "href": "https://www.instagram.com/p/DdAgP-1Jrw7/",
-          "text": "公式Instagram（2027開催情報）"
+          "href": "https://grand-plume.com/",
+          "text": "公式サイト"
         },
         "id": "c37fdfab768",
         "links": [
           {
             "ghost": false,
+            "href": "https://grand-plume.com/",
+            "text": "公式サイト"
+          },
+          {
+            "ghost": true,
             "href": "https://www.instagram.com/p/DdAgP-1Jrw7/",
             "text": "公式Instagram（2027開催情報）"
           },
@@ -2508,11 +2513,11 @@
         "note": [
           {
             "b": false,
-            "t": "出典：主催者公式Instagram（2026年9月8日）／追加調査（2026年11月19日）。従来「例年」として載せていた東京大会の2027年確定分です（2026年は西新井文化ホールで第14回）"
+            "t": "出典：主催者公式Instagram（2026年9月8日）／公式サイト（2026年11月26日確認）。従来「例年」として載せていた東京大会の2027年確定分です（2026年は西新井文化ホールで第14回）"
           },
           {
             "b": false,
-            "t": "2026年11月22日時点で公式サイトに東京回の掲載は確認できず（2027年は下関回のみ掲載）。要再確認。"
+            "t": "公式サイトのお知らせ（2026年11月13日）で東京大会のエントリー開始2026年12月25日を発表。現時点では受付前で、締切・部門詳細は未発表のままです。"
           }
         ],
         "organizer": "主催：GRAND PLUMEバレエコンペティション実行委員会",
@@ -11033,6 +11038,235 @@
         ],
         "weekShort": "例年・秋",
         "wide": false
+      },
+      {
+        "badges": [
+          {
+            "cls": "b-cert",
+            "text": "確定＝公式"
+          },
+          {
+            "cls": "b-ok",
+            "text": "出場可能"
+          },
+          {
+            "cls": "b-contemp",
+            "text": "コンテあり"
+          }
+        ],
+        "dateShort": "9/5",
+        "deadline": [
+          {
+            "b": false,
+            "t": "申込締切："
+          },
+          {
+            "b": true,
+            "t": "未発表"
+          },
+          {
+            "b": false,
+            "t": "（2026年12月1日申込開始予定・公式トップで確認。回号も未発表）"
+          }
+        ],
+        "entryEnd": null,
+        "entryStart": null,
+        "eventDate": "2027-09-05",
+        "genre": [
+          "contemporary"
+        ],
+        "guideLink": {
+          "href": "https://ybcballet.com/",
+          "text": "公式サイト（YBC）"
+        },
+        "id": "ybc-yokohama-autumn-2027",
+        "links": [
+          {
+            "ghost": false,
+            "href": "https://ybcballet.com/",
+            "text": "公式サイト（YBC）"
+          },
+          {
+            "ghost": true,
+            "href": "https://www.instagram.com/ybc_ballet_concours/",
+            "text": "公式Instagram"
+          }
+        ],
+        "month": "9",
+        "note": [
+          {
+            "b": false,
+            "t": "出典：YBC公式トップ「12月1日申込開始予定のコンクール」（2026年11月26日確認）。受付開始は2026年12月1日予定で、現時点では受付前です"
+          }
+        ],
+        "organizer": "主催：YBCバレエコンクール事務局",
+        "rows": [
+          {
+            "contemp": false,
+            "dd": [
+              {
+                "b": false,
+                "t": "神奈川県立青少年センター（神奈川県横浜市）"
+              }
+            ],
+            "dt": "会場"
+          },
+          {
+            "contemp": false,
+            "dd": [
+              {
+                "b": true,
+                "t": "高校生部門（クラシック）"
+              }
+            ],
+            "dt": "該当部門"
+          },
+          {
+            "contemp": true,
+            "dd": [
+              {
+                "b": true,
+                "t": "コンテンポラリー部門あり：シニア（高校生〜29歳）"
+              },
+              {
+                "b": false,
+                "t": "。2025年8月以降、学年別に再編（小学生／中学生／シニア）。2分30秒以内、参加費29,000円。期間中ずっとシニアに該当します"
+              }
+            ],
+            "dt": "コンテンポラリー"
+          }
+        ],
+        "search": "YBC 横浜 神奈川県立青少年センター 高校生 9月5日 秋",
+        "status": "ok",
+        "title": "YBCバレエコンクール横浜（2027年秋）",
+        "unc": null,
+        "weekShort": "日",
+        "wide": false
+      },
+      {
+        "badges": [
+          {
+            "cls": "b-cert",
+            "text": "ポータル"
+          },
+          {
+            "cls": "b-ok",
+            "text": "出場可能"
+          },
+          {
+            "cls": "b-contemp",
+            "text": "コンテあり"
+          },
+          {
+            "cls": "b-unc",
+            "text": "部門境界・未確定"
+          }
+        ],
+        "dateShort": "9/20",
+        "deadline": [
+          {
+            "b": false,
+            "t": "申込締切："
+          },
+          {
+            "b": true,
+            "t": "2027年分は未発表"
+          },
+          {
+            "b": false,
+            "t": "。参考：NBA地域別は開催の約2〜3か月前から受付し、開催約1か月前に締め切る回が多い"
+          }
+        ],
+        "entryEnd": null,
+        "entryStart": null,
+        "eventDate": "2027-09-20",
+        "genre": [
+          "contemporary"
+        ],
+        "guideLink": {
+          "href": "https://nbaballet.org/",
+          "text": "公式サイト（NBAバレエ団）"
+        },
+        "id": "nba-tokyo-2027-09",
+        "links": [
+          {
+            "ghost": false,
+            "href": "https://nbaballet.org/",
+            "text": "公式サイト（NBAバレエ団）"
+          },
+          {
+            "ghost": true,
+            "href": "https://www.instagram.com/nbaballetcompetition/",
+            "text": "公式Instagram"
+          }
+        ],
+        "month": "9",
+        "note": [
+          {
+            "b": false,
+            "t": "出典：Ballet-Week 2027年7–9月ページ（2026年11月19日更新）。2027年9月20日の東京開催がポータルに掲載。会場・締切・部門詳細は公式未確認のため、公式発表があり次第反映します"
+          },
+          {
+            "b": false,
+            "t": "2027年6月5日の東京回は別カードで掲載しています"
+          }
+        ],
+        "organizer": "主催：NBAバレエ団",
+        "rows": [
+          {
+            "contemp": false,
+            "dd": [
+              {
+                "b": false,
+                "t": "未発表（ポータル掲載のみ。公式では確認できていません）"
+              }
+            ],
+            "dt": "会場"
+          },
+          {
+            "contemp": false,
+            "dd": [
+              {
+                "b": true,
+                "t": "クラシック「高校生・シニアの部」"
+              },
+              {
+                "b": false,
+                "t": "（2026年横浜回の結果区分で確認）。高校2年生が該当します。2027年9月回の要項は未確認です"
+              }
+            ],
+            "dt": "該当部門"
+          },
+          {
+            "contemp": true,
+            "dd": [
+              {
+                "b": true,
+                "t": "コンテンポラリーの部あり"
+              },
+              {
+                "b": false,
+                "t": "（2026年東京回の時間表で設置を確認）。2027年9月回の詳細は未確認です"
+              }
+            ],
+            "dt": "コンテンポラリー"
+          }
+        ],
+        "search": "NBA 東京 バレエコンクール 9月 高校生",
+        "status": "ok",
+        "title": "NBAバレエコンクール 東京（2027年9月）",
+        "unc": [
+          {
+            "b": true,
+            "t": "部門境界・未確定："
+          },
+          {
+            "b": false,
+            "t": "2027年9月回の公式要項・会場・コンテンポラリー区分の詳細は未確認です。"
+          }
+        ],
+        "weekShort": "月・祝",
+        "wide": false
       }
     ],
     "deadlines": [
@@ -11386,7 +11620,67 @@
         "startedAt": "2026-11-24T20:55:33.688Z",
         "total": 97
       },
-      "running": null
+      "running": {
+        "checked": 52,
+        "checkedIds": [
+          "cf32e7d331a",
+          "c5aec4d0833",
+          "c405e04e436",
+          "c5d24ccad28",
+          "c5309e5c087",
+          "c1763fdda24",
+          "cfc6cbb3353",
+          "cc1c0d59157",
+          "c7de4e620be",
+          "c37fdfab768",
+          "c8014f1de45",
+          "cfd17fac365",
+          "c192a009919",
+          "ca306ca8f2d",
+          "bijou-vol1-2027",
+          "gate-gunma-2nd-2027",
+          "c23a693e007",
+          "c984c8897d4",
+          "c8630369207",
+          "c1bdcbbd378",
+          "c2b65e95333",
+          "c7f23db1480",
+          "cfae5567d37",
+          "c61409853d1",
+          "c727380cc63",
+          "c3e4f5c522a",
+          "zenkoku-buyo-chiba-2027",
+          "ca047d3fb95",
+          "cd87364e72e",
+          "c556f35b6b8",
+          "c5fde6cdcdc",
+          "c1df3f85556",
+          "c1c6ace3bb4",
+          "c59420d13e9",
+          "c8af5913ee9",
+          "cb0dbe1fff3",
+          "c6a00a14072",
+          "ce57407a364",
+          "cb5eb446372",
+          "lamazi-2027",
+          "cd430e9fcdb",
+          "c277ac55d61",
+          "c2a2709afef",
+          "c79cda3839e",
+          "cace406516e",
+          "ce16ff32aac",
+          "c853b50063e",
+          "ntb-ballet-2027",
+          "ebc-preparatory-2027",
+          "jeibc-reiwa",
+          "ybc-yokohama-autumn-2027",
+          "nba-tokyo-2027-09"
+        ],
+        "current": "確認を開始",
+        "startedAt": "2026-11-25T20:55:33.768Z",
+        "total": 99,
+        "updatedAt": "2026-11-25T21:07:39.108Z"
+      }
     }
   },
   "ok": true
